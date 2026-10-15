@@ -1,0 +1,18 @@
+{
+  "target_username": "nekorain",
+  "target_user_id": "",
+  "discord_token": "",
+  "channel_id": "",
+  "is_bot": false,
+  "enable_vesktop_bridge": true,
+  "position": "bottom-right",
+  "margin_x": 20,
+  "margin_y": 45,
+  "width": 360,
+  "max_height": 450,
+  "max_messages": 4,
+  "click_through": true,
+  "background_opacity": 0.45,
+  "auto_hide_seconds": 0,
+  "default_visible": false
+}

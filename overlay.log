@@ -1,0 +1,546 @@
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nera
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nera
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...[Main] Overlay initialized in hidden state. Use hotkey to show.
+
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Overlay] Hidden
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Vesktop Bridge] Vencord client connected!
+Gdk-Message: 01:02:26.534: Error reading events from display: Обрыв канала
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.[IPC] Listening on /run/user/1000/neras_chat.sock
+
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Overlay] Shown
+[Overlay] Hidden
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Chat] nekorain: Я только вернулась
+[Overlay] Hidden
+[Overlay] Shown
+[Chat] nekorain: Будет ли оно работать в каждом чате
+[Chat] nekorain: Как выглядит то хоть
+[Chat] nekorain: Вайкодер, что еще сказать
+[Chat] nekorain: agy опиши недочеты, может поправит :hihi:
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Overlay] CSS Load Error: gtk-css-provider-error-quark: <data>:61:23'line-height' is not a valid property name (3)
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.[IPC] Listening on /run/user/1000/neras_chat.sock
+
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Overlay] Shown
+[Overlay] History cleared
+[Overlay] History cleared
+[Overlay] Hidden
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.[IPC] Listening on /run/user/1000/neras_chat.sock
+
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+
+
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: de4jiii
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Chat] nekorain: Мяу
+[Chat] nekorain: Бесполезно пинговать
+[Overlay] Hidden
+[Overlay] Shown
+[Chat] nekorain: Особенно когда не за ноутбуком
+[Chat] nekorain: Текст сообщения может сливаться с фоном, либо добавь затемнение, либо обводку тексту
+[Overlay] History cleared
+[Overlay] History cleared
+[Chat] nekorain: На время сообщения пофиг, не критично
+[Overlay] History cleared
+[Chat] nekorain: А ещё аватарка :hihi:
+[Chat] nekorain: Добавь хоть какую то
+[Chat] nekorain: Ну настрочил же сообщение выше. Переменчивая ты личность :hihi:
+[Chat] nekorain: Хотя я тоже
+[Overlay] Hidden
+[Overlay] Shown
+[Chat] nekorain: Попробуй подумать с другой стороны. Что ты можешь сделать сейчас по силам, чтобы не делать потом?
+[Chat] nekorain: Просто просиживать место тоже такое себе
+[Chat] nekorain: Да и как ты говорил, у тебя сессия не сдана
+[Overlay] History cleared
+[Chat] nekorain: Ну извини что мы противоположности в этом плане, и у меня именно сейчас все выплеснулось
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...[Main] Overlay initialized in hidden state. Use hotkey to show.
+
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Overlay] History cleared
+[Chat] nekorain: Меня касается тоже
+[Overlay] History cleared
+[Overlay] History cleared
+[Chat] nekorain: Говори что хочешь, это касается и меня. Твоя "проблема" может быть и не из за меня
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] History cleared
+[Overlay] History cleared
+[Overlay] History cleared
+[Overlay] History cleared
+[Overlay] History cleared
+[Overlay] History cleared
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Chat] nekorain: > Ну фин, у тебя же была возможность поиграть в астронир, или в ту же няруру которую ты мог уже давно пройти. Да и вообще мы имеем не только эти игры.
+[Chat] nekorain: Я отталкиваюсь от твоих же слов
+[Overlay] Hidden
+[Overlay] Shown
+[Chat] nekorain: Если некорректно написал, перефразируй
+[Vesktop Bridge] Vencord client connected!
+[Overlay] History cleared
+[Overlay] History cleared
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Chat] nekorain: Все, я блинчики ем
+[Chat] nekorain: Ну, без обид, тут в цело твоя вина. Предпочел развлечения, когда знал что с предметами проблема
+[Chat] nekorain: Надо уметь
+[Chat] nekorain: Особенно когда не было обещания
+[Overlay] Hidden
+Gdk-Message: 22:18:15.952: Error reading events from display: Обрыв канала
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...[Main] Overlay initialized in hidden state. Use hotkey to show.
+
+
+[Overlay] Shown
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+[Main] Overlay initialized in hidden state. Use hotkey to show.
+[Overlay] Shown
+[Overlay] Hidden
+[Vesktop Bridge] Vencord client connected!
+[Overlay] Shown
+[Chat] nekorain: Слишком много чтобы просто послушать музыку
+[Chat] nekorain: Им то куда этот плюс
+[Chat] nekorain: Мяу мяу
+[Overlay] History cleared
+[Chat] nekorain: Аватарку сам локально поставил, или подтягивается?
+[Chat] nekorain: Что за текст
+[Chat] nekorain: Я тебе никогда в ЛС не писала :hihi:
+[Chat] nekorain: Ну если будет возможность скидывать без показа личных данных, то ладно
+[Overlay] History cleared
+[Overlay] Hidden
+[Overlay] Shown
+[Overlay] Hidden
+
+[Main] Exiting...
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Chat] nekorain: Но моя семья вообще не пользуется Яндексом, предпочитают бесплатный вк
+[Chat] nekorain: Даже с условием того, что они имеют возможность посмотреть Ютуб и т.д. через мой ВПН
+[Chat] nekorain: <color=#7289da><b>@de4jiii</color></b> <color=#7289da><b>@finrixx_</color></b> Может кто то из вас еще проверить создаются ли значки через карточки
+[Chat] nekorain: Карточки которые вы получаете при игре
+[Chat] nekorain:  [image: image.png] 
+[Chat] nekorain: В стиме
+[Chat] nekorain: Сейчас
+[Chat] nekorain: Бляха
+[Chat] nekorain: Я про в принципе
+[Chat] nekorain: Сейчас
+[Chat] nekorain: Создание значка
+[Chat] nekorain: Вот у меня есть 2 [image: image.png] 
+[Chat] nekorain: Но я их бляха не могу сделать
+[Chat] nekorain: Пик набор 50 руб
+[Chat] nekorain: Может у тебя даже дешевле
+[Chat] nekorain: Да нажми ты на кнопку
+[Chat] nekorain: Эту
+[Chat] nekorain: Я уже даже сару попросила зайти на мой аккаунт и проверить
+[Chat] nekorain: Но на других я не знаю, может только у меня такой прикол
+[Chat] nekorain: Посмотри есть ли жешевле наборы, незнаю
+[Chat] nekorain: Я вроде за 220 тенге покупала целый набор
+[Chat] nekorain: Что
+[Chat] nekorain: Стим гандоны значит
+[Chat] nekorain: Если что [image: image.png] 
+[Chat] nekorain: Ну я и показываю ошибку
+[Chat] nekorain:  [image: image.png] 
+[Chat] nekorain: Надо как то репортить ошибку
+[Chat] nekorain: А я не думаю
+[Chat] nekorain: Довольно сильная ошибка
+[Chat] nekorain: БЛЯХА, А ССЫЛКА ТО ОТКРЫВАЕТСЯ
+[Chat] nekorain: ВСМЫСЛЕ
+[Chat] nekorain: https://community.fastly.steamstatic.com/public/javascript/badges.js?v=b11126694&l=english&_cdn=fastly
+[Chat] nekorain: Ты ссылку открой
+[Chat] nekorain: steamcommunity.com как то фигово обращается наа steamstatic.com
+[Chat] nekorain: А с чего он тогда у нас открывается
+[Chat] nekorain: Ну да
+[Chat] nekorain: Это ссылка на скрипты
+[Chat] nekorain: Ссайта
+[Chat] nekorain: function Profile_CraftGameBadge
+[Chat] nekorain: Дай бог отвветят шалонно
+[Chat] nekorain: По идее мы идем нафиг
+[Chat] nekorain: Она для Ultra подписки
+[Chat] nekorain: Если что [image: image.png] 
+[Chat] nekorain: И сколько оно токенов ест?
+[Chat] nekorain: Столько же сколько и Claude?
+[Chat] nekorain: То есть если я ему дам задачу переписать игру на условный Go, он перепишет, но уйдет в лимит
+[Chat] nekorain: Я ему дам задачу сколько будет стоить переезд во Вьетнам, и что для него необходимо
+[Chat] nekorain: Пусь думает
+[Chat] nekorain: <color=#7289da><b>@finrixx_</color></b> Мне вот интересно, у тебя то желтый статус, то зеленый
+[Chat] nekorain: Это типо знак что тебя в заложниках держат?
+[Chat] nekorain: 16% ЛИМИТА АЛЕ
+[Chat] nekorain: Но сгенерировал быстро, дай бог не наврал
+[Chat] nekorain: Еще и калькулятор какой то написал
+[Chat] nekorain: Что [image: image.png] 
+[Chat] nekorain: Я конечно знаю что у ютуба есть такая функция, но впервые ее вижу, еще и так
+[Chat] nekorain: Там он много написал
+Gdk-Message: 01:00:49.327: Error reading events from display: Обрыв канала
+=======================================
+ Nera's Discord Stream Chat Overlay   
+ Target User: nekorain
+ Position: bottom-right
+=======================================
+[Main] No discord_token specified. Running with Vesktop bridge and IPC test support.
+[IPC] Listening on /run/user/1000/neras_chat.sock
+[Main] Overlay initialized in hidden state. Use hotkey to show.[Vesktop Bridge] Listening for UDP notifications on 127.0.0.1:42069...
+
+[Vesktop Bridge] Listening for Vencord/Vesktop notifications on ws://127.0.0.1:42070...
+[Overlay] Shown
+[Overlay] Hidden
+[Overlay] Shown
+[Vesktop Bridge] Vencord client connected!
+[Chat] nekorain: Не хотела я
+[Chat] nekorain: У меня вообще много аниме в планах лежит
+[Chat] nekorain: И те что не вышли, и те что вышли давно
+[Chat] nekorain: Монолог фармацевта 3 сезон первая серия сегодня вышла :hihi:
+[Chat] nekorain: Детектив мертв 2 сезон недавно начал выходить
+[Chat] nekorain: Да и вообще много хороших тайтлов получили второй сезон в этом гожу
+[Chat] nekorain: Я жду добавления в семью :hanaAww:
+[Chat] nekorain: 4 максимум
+[Chat] nekorain:  [image: image.png] 
+[Chat] nekorain:  [image: image.png] 
+[Chat] nekorain: Да не надо, тебе тогда нужно и с другими договариваться
+[Chat] nekorain: Что поискать
+[Chat] nekorain: Рекомендации
+[Chat] nekorain: В этом минус одного аккаунта
+[Chat] nekorain: .
+[Chat] nekorain: Как давно у нас переводы анонимны
+[Chat] nekorain: да
+[Chat] nekorain: Знаешь все равно не охото личными данными светить
+[Chat] nekorain: Любому
+[Chat] nekorain: Яндекс карта имеет возможность делать переводы?
+[Chat] nekorain: На свои же карты
+[Chat] nekorain: Вроде была новость что уже почти восстановили инфраструктуру
+[Chat] nekorain: Ровно так же и оформит пару кредитов да
+[Chat] nekorain: Заботятся, второй раз вижу [image: image0.jpg] 
+[Chat] nekorain: Для мессенджера нужен
+[Chat] nekorain: Там я не сижу
+[Chat] nekorain: Вот тут уведомления высвечиваются если что [image: image0.jpg] 
+[Chat] nekorain: Погоди, вроде анонимно
+[Chat] nekorain: Я просто сейчас проверила на своей же карте в сбербанке
+[Chat] nekorain: Ада, какой у тебя банк, ну или у того кому буду переводить
+[Chat] nekorain: Вреш
+[Chat] nekorain: 4 цифры номера карты и банк
+[Chat] nekorain: Ты 0 сказал
+[Chat] nekorain: Просто надо еще проверить какой именно у него банк
+[Chat] nekorain: ЯПэй или какой нибудь россельхозбанк
+[Chat] nekorain: А еще я вообще не знаю что там по переводам. Я переводы редко делаю, и не задавалась вопросом об анонимности
+[Chat] nekorain: Никогда не переводила людям в интернете
+[Chat] nekorain: Нафига вам столько
+[Chat] nekorain: Обоим
+[Chat] nekorain: В каждом?
+[Chat] nekorain: Озон понятно
+[Chat] nekorain: Там скидка
+[Chat] nekorain: А яндекс почему забанили
+[Chat] nekorain: А тебе нет 18?
+[Chat] nekorain: А что тебе дискорд показывает
+[Chat] nekorain: В настройках
+[Chat] nekorain: Что он у тебя тут показывает [image: image.png] 
+[Chat] nekorain: Этого сообщения кстати будет достаточно дискорду :hihi:
+[Chat] nekorain: Чтобы поставить тебе меньше 18
+[Chat] nekorain: Мне то 19, мне хорошо
+[Chat] nekorain: :hanaknifee:
+[Chat] nekorain: Мяурикскс оскорбил меня
+[Chat] nekorain: Сделаю лучший подарок, подарю приквел няруру
+[Chat] nekorain: Тут навряд ли
+[Chat] nekorain: Она будет скучнее
+[Chat] nekorain: И сложнее
+[Chat] nekorain: В плане запутанности
+[Chat] nekorain: Прошла концовки только с помощью гайдов
+[Chat] nekorain: Проходить не буду
+[Chat] nekorain: Тогда сделай все ачивки в няруру без модификации файлов
+[Chat] nekorain: Давай
+[Chat] nekorain: Я то знаю ачивки
+[Chat] nekorain: Как минимум 2 тебе очень тяжело будет пройти
+[Chat] nekorain: 50+ звезд босс раша нет
+[Chat] nekorain: Без урона полностью всех боссов на максимальной сложности
+[Chat] nekorain: Ну может урон допускается
+[Chat] nekorain: Не знаю
+[Chat] nekorain: Несколько раз допускается, а так, 2 раза урон -2 звезды
+[Chat] nekorain: 3 звезды для босса минимум
+[Chat] nekorain: Ну да
+[Chat] nekorain: У меня вроде даже сохранены файлы с модификациями
+[Chat] nekorain: А почему 200
+[Chat] nekorain: Ты проверь ее хотя бы
+[Chat] nekorain: Не, я про то, от какой цены ты отталкиваешься
+[Chat] nekorain: 200 ~= 650 / 3
+[Chat] nekorain: Даже с 175, там максимум 4 человека платят примерно столько же
+[Chat] nekorain: Как будто одолжение мне делает :hihi:
+[Chat] nekorain: Я не против и 200, просто сколько именно я плачу в соотношении с другими
+[Chat] nekorain: Просто по расценке что ты мне дал, там кто то почти халяик
+[Chat] nekorain: Ну ты бедни да
+[Chat] nekorain: Да и я не богата
+[Chat] nekorain: Я могу и 160, чисто любимое число
+[Chat] nekorain: Я вообще хотела сразу на 3 месяца, а раз так, то могу и на 6 оплатить свою долю :hanaAww:
+[Chat] nekorain: Безнесмен
+[Chat] nekorain: Ла
+[Chat] nekorain: Я могла бы как то монетизировать свой VPN, но я бы не сказала что я в этом много знаю. Плюсом чистое ядро для этого не подходит, да и сейчас больше ценятся обходы БС
+[Chat] nekorain: Кро врет [image: image.png] 
+[Chat] nekorain: кро
+[Chat] nekorain: ш
+[Chat] nekorain: Ты врещ :hihi:
+[Chat] nekorain: 230
+[Chat] nekorain: 230 чего
+[Chat] nekorain: Какой он умный
+[Chat] nekorain:  [image: image.png] 
+[Chat] nekorain: А хороший
+[Chat] nekorain: Бляха
+[Chat] nekorain: Не правильно прочитала
+[Chat] nekorain: Да
+[Chat] nekorain: Ладно, у гемини инструкций куча [image: image.png] 
+[Chat] nekorain: Их нету только у того гемини что на втором аккаунте
+[Chat] nekorain: А этот не видит [image: image.png] 
+[Chat] nekorain:  [image: image.png] 
+[Chat] nekorain: 3.8 модель
+[Chat] nekorain: С чего решил
+[Chat] nekorain: Я знаю что на сайте показывается локация
+[Overlay] Hidden
+[Overlay] Shown
+[Chat] nekorain: Савелий, я не горю желанием ломать этот таймер [image: image.png] 
+[Chat] nekorain: Ой [image: image.png] 
+[Chat] nekorain: :hihi:
+[Chat] nekorain: А жаль [image: image.png] 
+[Chat] nekorain: Ты же знаешь как? :hihi:
+[Chat] nekorain: Вот так вот [image: image.png] 
+[Chat] nekorain: Какой
+[Chat] nekorain: Этот риторический
+[Chat] nekorain: А он должен что то давать?
+[Chat] nekorain: К чему притензия
+[Chat] nekorain: Ты читаешь или что
+[Chat] nekorain: Злой ты
